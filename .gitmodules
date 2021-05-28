@@ -1,0 +1,6 @@
+[submodule "theme/boostchild"]
+	path = theme/boostchild
+	url = https://gitlab.com/matt.donnelly/moodle-theme_boostchild
+[submodule "course/format/topics_advanced"]
+	path = course/format/topics_advanced
+	url = https://gitlab.com/matt.donnelly/moodle-format_topics_advanced
