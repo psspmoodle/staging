@@ -4,3 +4,35 @@
 [submodule "course/format/topics_advanced"]
 	path = course/format/topics_advanced
 	url = https://gitlab.com/matt.donnelly/moodle-format_topics_advanced
+[submodule "mod/questionnaire"]
+	path = mod/questionnaire
+	url = https://github.com/PoetOS/moodle-mod_questionnaire.git
+	branch = MOODLE_310_STABLE
+[submodule "mod/journal"]
+	path = mod/journal
+	url = https://github.com/elearningsoftware/moodle-mod_journal.git
+[submodule "mod/customcert"]
+	path = mod/customcert
+	url = https://github.com/mdjnelson/moodle-mod_customcert.git
+	branch = MOODLE_310_STABLE
+[submodule "lib/editor/atto/plugins/snippet"]
+	path = lib/editor/atto/plugins/snippet
+	url = https://github.com/justinhunt/moodle-atto_snippet.git
+[submodule "availability/condition/coursecompleted"]
+	path = availability/condition/coursecompleted
+	url = https://github.com/ewallah/moodle-availability_coursecompleted.git
+[submodule "local/group_by_feedback"]
+	path = local/group_by_feedback
+	url = https://gitlab.com/matt.donnelly/moodle-local_group_by_feedback
+[submodule "filter/check_available_complete"]
+	path = filter/check_available_complete
+	url = https://gitlab.com/matt.donnelly/moodle-filter_check_available_complete.git
+[submodule "local/filter_check_available_complete_restore"]
+	path = local/filter_check_available_complete_restore
+	url = https://gitlab.com/matt.donnelly/moodle-local_filter_check_available_complete_restore.git
+[submodule "local/autogroup"]
+	path = local/autogroup
+	url = https://gitlab.com/artem-zaloga/moodle-local_autogroup.git
+[submodule "filter/vuecomponents"]
+	path = filter/vuecomponents
+	url = https://gitlab.com/artem-zaloga/moodle-local_vuecomponents.git
